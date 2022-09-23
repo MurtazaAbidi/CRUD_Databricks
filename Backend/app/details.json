@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "PJD USD",
+        "DATABRICKS_SERVER_HOSTNAME": "adb-4663394252778216.16.azuredatabricks.net",
+       "DATABRICKS_HTTP_PATH": "sql/protocolv1/o/4663394252778216/0919-133638-qd5cqf6r",
+        "DATABRICKS_TOKEN": "dapi806c6411b162ba0e6be16314692b4b69",
+      "default": true
+    },
+    {
+      "id": 2,
+      "name": "PJD UK",
+      "DATABRICKS_SERVER_HOSTNAME":"",
+      "DATABRICKS_HTTP_PATH":"",
+      "DATABRICKS_TOKEN":"",
+      "default": false
+    }
+  ]

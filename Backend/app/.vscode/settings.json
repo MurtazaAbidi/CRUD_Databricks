@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./routes",
+        "./connectors",
+        "./services",
+        "./middleware",
+        "./schemas",
+    ]
+}
